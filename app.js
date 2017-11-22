@@ -1,19 +1,19 @@
 var output;
 function calculator (x,y,z) {
-  if (x==="+", "sum", "add", "addition", "plus") {
+  if (x==="+") {
     output = y+z;
-  } else if (x==="-", "difference", "subtract", "subtraction", "minus") {
+  } else if (x==="-") {
     output = y-z;
-  } else if (x==="*", "product", "multiply", "multiplication") {
+  } else if (x==="*") {
     output = y*z;
-  } else if (x==="/", "quotient", "divide", "division") {
+  } else if (x==="/") {
     output = y/z;
   } else {
     output = "Mayn, you gotta set da right operata";
   }
 }
 
-calculator ("lololol", 69, 42);
+calculator ("/", 69, 42);
 
 //calculator ("*", 69, 42);
 
