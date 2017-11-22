@@ -22,3 +22,4 @@ calculator ("/", 69, 42);
 //calculator ("-", 69, 42);
 
 console.log(output);
+
