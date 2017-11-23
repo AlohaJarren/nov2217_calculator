@@ -1,6 +1,6 @@
 # nov2217_calculator
 
-Create a function called calculator that takes three parameters, `x`, `y`, `z`
+Create a function called calculator that takes three parameters, `x`, `y`, `z` <br />
 Create a variable called output; this is where your number returned from your function will be stored
 The first parameter determines the mathematical operation to be performed
 Parameters `y` and `z` are any two numbers
